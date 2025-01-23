@@ -1,0 +1,16 @@
+openerp\openerpresourceserver\controller\EntityAuthorizationController.class
+openerp\openerpresourceserver\service\UserService.class
+openerp\openerpresourceserver\config\security\SecurityConfig.class
+openerp\openerpresourceserver\config\security\Jwt2AuthoritiesConverter.class
+openerp\openerpresourceserver\service\EntityAuthorizationServiceImpl.class
+openerp\openerpresourceserver\entity\User.class
+openerp\openerpresourceserver\entity\User$UserBuilder.class
+openerp\openerpresourceserver\service\UserServiceImpl.class
+openerp\openerpresourceserver\repo\EntityAuthorizationRepo.class
+openerp\openerpresourceserver\repo\UserRepo.class
+openerp\openerpresourceserver\config\security\CorsConfig.class
+openerp\openerpresourceserver\config\security\Jwt2AuthenticationConverter.class
+openerp\openerpresourceserver\controller\UserController.class
+openerp\openerpresourceserver\entity\EntityAuthorization.class
+openerp\openerpresourceserver\service\EntityAuthorizationService.class
+openerp\openerpresourceserver\OpenerpResourceServerApplication.class

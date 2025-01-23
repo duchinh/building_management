@@ -1,0 +1,35 @@
+# application-dev.yml
+
+# Database
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${MYSQL_HOST}:${MYSQL_PORT}/${MYSQL_DB}
+    username: ${MYSQL_USERNAME}
+    password: ${MYSQL_PASSWORD}
+    hikari:
+      maxLifetime: 30000
+      leakDetectionThreshold: 30000
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+        order_inserts: true
+        jdbc:
+          batch_size: 50
+        ddl-auto: update
+
+# MySQL specific environment variables
+MYSQL_USERNAME: root
+MYSQL_PASSWORD: 123456789
+MYSQL_HOST: localhost
+MYSQL_PORT: 3306
+MYSQL_DB: univ_building
+
+# Server
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: dev

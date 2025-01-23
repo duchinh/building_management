@@ -1,0 +1,15 @@
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\entity\User.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\repo\EntityAuthorizationRepo.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\controller\EntityAuthorizationController.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\service\EntityAuthorizationService.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\config\security\Jwt2AuthenticationConverter.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\controller\UserController.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\repo\UserRepo.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\config\security\SecurityConfig.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\config\security\Jwt2AuthoritiesConverter.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\config\security\CorsConfig.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\service\UserServiceImpl.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\OpenerpResourceServerApplication.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\service\EntityAuthorizationServiceImpl.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\entity\EntityAuthorization.java
+D:\Project3\openerp-micro-service\sample\openerp-resource-server\src\main\java\openerp\openerpresourceserver\service\UserService.java
